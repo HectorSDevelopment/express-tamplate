@@ -1,0 +1,7 @@
+{
+    "ERR_CODE1": "Especificar algun mensaje de error",
+    "ERR_CODE2": {
+        "detalles": "Mostrar algunos detalles",
+        "masdetalles": "Mostrar mas detalles u otras cosas"
+    }
+}
